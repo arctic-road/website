@@ -37,9 +37,10 @@ page_sections:
   caption: ''
 - template: detail-content
   block: text-1
-  headline: Наши услуги
-  content: "<ul><li><p>Организация туров</p></li><li><p>Покупка авиабилетов</p></li><li><p>Бронирование
-    отелей</p></li><li><p>Помощь в оформлении виз</p></li><li><p>Групповые туры</p></li></ul>"
+  headline: ''
+  content: "<p><strong>Наши услуги</strong></p><ul><li><p>Организация туров</p></li><li><p>Покупка
+    авиабилетов</p></li><li><p>Бронирование отелей</p></li><li><p>Помощь в оформлении
+    виз</p></li><li><p>Групповые туры</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: Сделано с ❤️ в Санкт-Петербурге
