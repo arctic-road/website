@@ -13,7 +13,8 @@
 }
 .block-hero-2 {
   --text: #262626;
-  background-size: auto 120%;
+  --bg: #fff;
+  background-size: auto 124%;
   background-position: 50% bottom;
 }
 .block-hero-2 .column.text p {
@@ -26,4 +27,12 @@
 .block {
   padding: 1rem 0rem;
 }
-
+.container {
+  width: 100%;
+}
+.block-footer-1 {
+  margin-top: -6rem;
+}
+.block-footer-1 p {
+  color: #262626;
+}
