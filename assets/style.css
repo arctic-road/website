@@ -2,6 +2,9 @@
   height: 80px;
   max-height: 80px;
 }
+.block-hero-2 {
+  background-size: 100%;
+}
 .block-hero-2 .column.text {
   text-shadow: -1px 1px 1px #0bc1868f;
   flex: 0 0 100%;
