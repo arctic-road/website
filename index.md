@@ -67,10 +67,10 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: <p><a href="https://yandex.ru/maps/-/CCUyj6HzdA" title="">ул. Кирочная,
-    д.8<br>метро "Чернышевская"<br>г. Санкт-Петербург</a></p><p><a href="mailto:info@arctic-road.ru"
-    title=""><strong>info@arctic-road.ru</strong></a><strong><br></strong><a href="tel:+78127196352"
-    title=""><strong>+7 (812) 719-63-52</strong></a><br><br>Сделано с ❤️ в Санкт-Петербурге</p>
+  content: <h4><a href="tel:+78127196352" title=""><strong>+7 (812) 719-63-52</strong></a></h4><p><a
+    href="mailto:info@arctic-road.ru" title="">info@arctic-road.ru</a></p><p><a href="https://yandex.ru/maps/-/CCUyj6HzdA"
+    title="">ул. Кирочная, д.8<br>метро "Чернышевская"<br>г. Санкт-Петербург</a><br><br>Сделано
+    с ❤️ в Санкт-Петербурге</p>
 map:
 - template: yandex-map
   embedded_map: <p>&lt;div style="position:relative;overflow:hidden;"&gt;&lt;a href="<a
