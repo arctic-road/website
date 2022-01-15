@@ -61,17 +61,17 @@ page_sections:
     - символ турфирмы с необычным названием Арктик Роуд, летает много лет и не собирается
     менять ни цвет, ни адрес, ни название. А значит все ваши заявки и пожелания будут
     выполнены в лучшем виде.'
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/12/22/parallax2.jpg"
-  slug: blocks
-  caption: ''
 - template: detail-content
   block: text-1
   headline: ''
   content: "<p><strong>Наши услуги</strong></p><ul><li><p>Организация туров</p></li><li><p>Покупка
     авиабилетов</p></li><li><p>Бронирование отелей</p></li><li><p>Помощь в оформлении
     виз</p></li><li><p>Групповые туры</p></li></ul>"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/12/22/parallax2.jpg"
+  slug: ''
+  caption: ''
 - template: simple-footer
   block: footer-1
   content: Сделано с ❤️ в Санкт-Петербурге
