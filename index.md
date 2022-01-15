@@ -6,7 +6,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Арктик Роуд<br><strong>Туристическая компания</strong>
+  headline: <img src="/uploads/2021/12/22/logo.png">Арктик Роуд<br><strong>Туристическая
+    компания</strong>
   content: Туристическая компания Арктик Роуд работает на рынке с 1991 года.
   cta:
     enabled: false
