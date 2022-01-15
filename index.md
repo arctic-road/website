@@ -71,23 +71,4 @@ page_sections:
     href="mailto:info@arctic-road.ru" title="">info@arctic-road.ru</a></p><p><a href="https://yandex.ru/maps/-/CCUyj6HzdA"
     title="">ул. Кирочная, д.8<br>метро "Чернышевская"<br>г. Санкт-Петербург</a><br><br>Сделано
     с ❤️ в Санкт-Петербурге</p>
-map:
-- template: yandex-map
-  embedded_map: <p>&lt;div style="position:relative;overflow:hidden;"&gt;&lt;a href="<a
-    href="https://yandex.ru/maps/org/arktik_roud_tur/1081919782/?utm_medium=mapframe&amp;utm_source=maps"
-    title="https://yandex.ru/maps/org/arktik_roud_tur/1081919782/?utm_medium=mapframe&amp;utm_source=maps"
-    target="_blank">https://yandex.ru/maps/org/arktik_roud_tur/1081919782/?utm_medium=mapframe&amp;utm_source=maps</a>"
-    style="color:#eee;font-size:12px;position:absolute;top:0px;"&gt;Арктик Роуд Тур&lt;/a&gt;&lt;a
-    href="<a href="https://yandex.ru/maps/2/saint-petersburg/category/travel_agency/184106432/?utm_medium=mapframe&amp;utm_source=maps"
-    title="https://yandex.ru/maps/2/saint-petersburg/category/travel_agency/184106432/?utm_medium=mapframe&amp;utm_source=maps"
-    target="_blank">https://yandex.ru/maps/2/saint-petersburg/category/travel_agency/184106432/?utm_medium=mapframe&amp;utm_source=maps</a>"
-    style="color:#eee;font-size:12px;position:absolute;top:14px;"&gt;Турагентство
-    в Санкт‑Петербурге&lt;/a&gt;&lt;a href="<a href="https://yandex.ru/maps/2/saint-petersburg/category/air_tickets_railway_tickets/184108279/?utm_medium=mapframe&amp;utm_source=maps"
-    title="https://yandex.ru/maps/2/saint-petersburg/category/air_tickets_railway_tickets/184108279/?utm_medium=mapframe&amp;utm_source=maps"
-    target="_blank">https://yandex.ru/maps/2/saint-petersburg/category/air_tickets_railway_tickets/184108279/?utm_medium=mapframe&amp;utm_source=maps</a>"
-    style="color:#eee;font-size:12px;position:absolute;top:28px;"&gt;Железнодорожные
-    и авиабилеты в Санкт‑Петербурге&lt;/a&gt;&lt;iframe src="<a href="https://yandex.ru/map-widget/v1/-/CCUyj6H7cB"
-    title="https://yandex.ru/map-widget/v1/-/CCUyj6H7cB" target="_blank">https://yandex.ru/map-widget/v1/-/CCUyj6H7cB</a>"
-    width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"&gt;&lt;/iframe&gt;&lt;/div&gt;</p>
-
 ---
