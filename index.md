@@ -8,7 +8,7 @@ page_sections:
   slug: features
   headline: <img src="/uploads/2021/12/22/logo.png">Арктик Роуд<br><strong>Туристическая
     компания</strong>
-  content: Туристическая компания Арктик Роуд работает на рынке с 1991 года.
+  content: ''
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
