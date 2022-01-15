@@ -58,7 +58,8 @@ page_sections:
   headline: ''
   content: <p><strong>        Наши услуги</strong></p><ul><li><p>Организация туров</p></li><li><p>Покупка
     авиабилетов</p></li><li><p>Бронирование отелей</p></li><li><p>Помощь в оформлении
-    виз</p></li><li><p>Групповые туры</p></li></ul><h3><a href="/контакты" title=""><strong>Контакты</strong></a></h3>
+    виз</p></li><li><p>Групповые туры</p></li></ul><h3><strong>   </strong><a href="/контакты"
+    title=""><strong>Контакты</strong></a></h3>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/12/22/parallax2.jpg"
