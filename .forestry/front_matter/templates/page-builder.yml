@@ -28,13 +28,5 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- name: map
-  type: blocks
-  template_types:
-  - yandex-map
-  config:
-    min: 
-    max: 
-  label: Map
 pages:
 - index.md
