@@ -17,6 +17,10 @@
   background-size: auto 124%;
   background-position: 50% bottom;
 }
+.block-one-column-1 p {
+  padding: 0 4em;
+  text-align: justify;
+}
 .block-hero-2 .column.text p {
   color: #262626;
 }
