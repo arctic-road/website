@@ -4,7 +4,6 @@
 }
 .block-hero-2 .column.text {
   text-shadow: -1px 1px 1px #0bc1868f;
-  min-width: 720px;
   flex: 0 0 100%;
   text-align: center;
 }
