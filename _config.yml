@@ -5,9 +5,6 @@ email: info@arctic-road.ru
 description: Туристическая компания Arctic Road
 baseurl: "/"
 url: arctic-road.ru
-defaults:
-- scope: ''
-  values: ''
 plugins:
 - jekyll-feed
 - jekyll-menus
