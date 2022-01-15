@@ -16,7 +16,7 @@
 .block-hero-2 {
   --text: #262626;
   --bg: #fff;
-  background-size: auto 124%;
+  background-size: 100%;
   background-position: 50% bottom;
 }
 .block-one-column-1 p {
