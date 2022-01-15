@@ -34,7 +34,7 @@ page_sections:
   block: media-1
   image: "/uploads/2021/12/22/parallax2.jpg"
   slug: blocks
-  caption: Песок
+  caption: ''
 - template: detail-content
   block: text-1
   headline: Наши услуги
