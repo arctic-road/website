@@ -1,3 +1,13 @@
-.block-header-2--logo {
-  height: 120px;
+.block-hero-2 img {
+  height: 80px;
+  max-height: 80px;
+}
+.block-hero-2 .column.text {
+  min-width: 540px;
+}
+.block-hero-2 {
+  --text: #262626;
+}
+.block-hero-2 .column.text p {
+  color: #262626;
 }
