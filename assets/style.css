@@ -3,11 +3,26 @@
   max-height: 80px;
 }
 .block-hero-2 .column.text {
-  min-width: 540px;
+    text-shadow: -1px 1px 1px #0bc1868f;
+    min-width: 720px;
+    flex: 0 0 100%;
+    text-align: center;
+}
+.block-hero-2 .column.media img {
+  display: none;
 }
 .block-hero-2 {
   --text: #262626;
+  background-size: auto 120%;
+  background-position: 50% bottom;
 }
 .block-hero-2 .column.text p {
   color: #262626;
 }
+.block-hero-2 .column.text h1 strong {
+  font-size: 0.8rem;
+}
+.block {
+  padding: 1rem 0rem;
+}
+
