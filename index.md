@@ -67,12 +67,12 @@ page_sections:
   caption: ''
 - template: simple-footer
   block: footer-1
-  content: '&lt;a href="<a href="https://yandex.ru/maps/-/CCUyj6HzdA" title="https://yandex.ru/maps/-/CCUyj6HzdA">https://yandex.ru/maps/-/CCUyj6HzdA</a>"
+  content: '<p>&lt;a href="<a href="https://yandex.ru/maps/-/CCUyj6HzdA" title="https://yandex.ru/maps/-/CCUyj6HzdA">https://yandex.ru/maps/-/CCUyj6HzdA</a>"
     target="_blank"&gt;ул. Кирочная, д.8&lt;br&gt;метро "Чернышевская"&lt;br&gt;г.
     Санкт-Петербург&lt;br&gt;&lt;/a&gt;&lt;p&gt;Почта: &lt;a href="mailto:info@arctic-road.ru"
     title=""&gt;&lt;strong&gt;info@arctic-road.ru&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Телефон:
     &lt;a href="tel:+78127196352" title=""&gt;&lt;strong&gt;+7 (812) 719-63-52&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;<br><br>Сделано
-    с ❤️ в Санкт-Петербурге'
+    с ❤️ в Санкт-Петербурге</p>'
 map:
 - template: yandex-map
   embedded_map: <p>&lt;div style="position:relative;overflow:hidden;"&gt;&lt;a href="<a
