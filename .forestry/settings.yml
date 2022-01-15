@@ -7,12 +7,9 @@ sections:
 - type: document
   path: index.md
   label: Главная страница
-  match: "**/*"
-  read_only: false
 - type: document
   path: контакты.md
   label: Контакты
-  match: "**/*"
 - type: directory
   path: ''
   label: Страницы
