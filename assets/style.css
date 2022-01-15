@@ -34,6 +34,19 @@
 .container {
   width: 100%;
 }
+.block-one-column-1 .headline {
+  display: none;
+}
+.block-text-1 .columns {
+  display: block;
+}
+.block-text-1 .headline {
+  display: none;
+}
+.block-text-1 .text {
+  flex: none;
+  text-align: center;
+}
 footer .container {
   padding-top: 250px;
 }
@@ -45,7 +58,7 @@ footer a:hover, footer a:active {
   text-decoration: underline;
 }
 .block-footer-1 {
-  margin-top: -6rem;
+  background-image: url(/uploads/2021/12/22/parallax2.jpg);
 }
 .block-footer-1 p {
   color: #262626;
