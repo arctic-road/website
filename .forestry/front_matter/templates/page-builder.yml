@@ -30,12 +30,12 @@ fields:
   - 4-column-footer
 - name: map
   type: blocks
-  label: map
   template_types:
   - yandex-map
   config:
     min: 
     max: 
+  label: Map
 pages:
 - "./контакты.md"
 - index.md
