@@ -11,9 +11,6 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
-- type: jekyll-posts
-  label: Новости
-  create: all
 - type: document
   path: _config.yml
   label: Настройки
