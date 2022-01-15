@@ -34,6 +34,16 @@
 .container {
   width: 100%;
 }
+footer .container {
+  padding-top: 250px;
+}
+footer a, footer a:visited {
+  text-decoration: none;
+  color: #262626;
+}
+footer a:hover, footer a:active {
+  text-decoration: underline;
+}
 .block-footer-1 {
   margin-top: -6rem;
 }
