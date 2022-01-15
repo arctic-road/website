@@ -28,6 +28,14 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+- name: map
+  type: blocks
+  label: map
+  template_types:
+  - yandex-map
+  config:
+    min: 
+    max: 
 pages:
 - "./контакты.md"
 - index.md
