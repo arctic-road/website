@@ -4,6 +4,15 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: document
+  path: index.md
+  label: Главная страница
+  match: "**/*"
+  read_only: false
+- type: document
+  path: контакты.md
+  label: Контакты
+  match: "**/*"
 - type: directory
   path: ''
   label: Страницы
