@@ -1,4 +1,13 @@
 ---
 label: yandex-map
 hide_body: true
-fields: []
+fields:
+- name: embedded_map
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: embedded map
