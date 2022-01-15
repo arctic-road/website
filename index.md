@@ -29,7 +29,7 @@ page_sections:
   block: one-column-1
   slug: responsive
   headline: О нас
-  content: Здесь надо написать текст о компании.
+  content: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/12/22/parallax2.jpg"
