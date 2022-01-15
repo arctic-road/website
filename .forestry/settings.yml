@@ -5,6 +5,10 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: document
+  path: assets/style.css
+  label: Стиль
+  match: "**/*"
+- type: document
   path: index.md
   label: Главная страница
 - type: document
