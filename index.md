@@ -60,15 +60,11 @@ page_sections:
     авиабилетов</p></li><li><p>Бронирование отелей</p></li><li><p>Помощь в оформлении
     виз</p></li><li><p>Групповые туры</p></li></ul><h3><strong>   </strong><a href="/контакты"
     title=""><strong>Контакты</strong></a></h3>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/12/22/parallax2.jpg"
-  slug: ''
-  caption: ''
 - template: simple-footer
   block: footer-1
   content: <h4><a href="tel:+78127196352" title=""><strong>+7 (812) 719-63-52</strong></a></h4><p><a
     href="mailto:info@arctic-road.ru" title="">info@arctic-road.ru</a></p><p><a href="https://yandex.ru/maps/-/CCUyj6HzdA"
     title="">ул. Кирочная, д.8<br>метро "Чернышевская"<br>г. Санкт-Петербург</a><br><br>Сделано
     с ❤️ в Санкт-Петербурге</p>
+
 ---
