@@ -18,7 +18,7 @@ page_sections:
   headline: Арктик Роуд<br><strong>Туристическая компания</strong>
   content: Туристическая компания Арктик Роуд работает на рынке с 1991 года.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
